@@ -1,6 +1,6 @@
 # Python Network Packet Sniffer (Raw Sockets)
 
-**Project Description**
+**Project Description:**
 This is a high-performance network analysis tool built in **Python** and executed on Kali Linux. It utilizes raw sockets to intercept and decode live network traffic, providing a detailed view of data as it travels across the OSI model layers.
 
 ### **Key Technical Features**
